@@ -1,0 +1,142 @@
+body {
+				background: white;
+				width: 100%;
+}
+
+header{
+				background: sandybrown;
+				color: cornsilk;
+				font: "Times New Roman";
+				padding: 2rem;
+				margin: 0px;
+}
+
+h1{
+				text-transform: uppercase;
+				margin: 0px;
+				text-align: center;
+}
+
+p{
+				margin: 0px;
+				font-width: bolder;
+				font-size: larger;
+				text-align: center;
+}
+nav{
+				background: cornsilk;
+				text-transform: capitalize;
+				padding: 2rem;
+}
+
+a{
+				background: whitesmoke;
+				color: sandybrown;
+				font-weight: bolder;
+			 border-width: 15cm;
+			 font-size: larger;
+}
+
+ul{
+				padding: 1em;
+				text-align: center;
+}
+
+li{
+				list-style-type: none;
+				margin: 3px;
+				display: inline-block;
+				padding: 10px;
+}
+
+a:link, a:visited{
+				background: sandybrown;
+				color: white;
+				border-radius: 5px;
+				padding: 2px;
+				text-decoration: none;
+}
+
+a:hover{
+				background: sandybrown;
+				color: whitesmoke;
+}
+
+.imagesize{
+				width: 12rem;
+				height: 10rem;
+				margin: 1rem;
+				border-radius: 1rem;
+}
+
+img{
+     background: sandybrown;
+				width: 250px;
+				height: 100px;
+				margin: 1rem;
+				border-radius: 1rem;
+}
+
+table menu{
+				background: sandybrown;
+				width: 50%;
+}
+
+table{
+				width: 100%;
+				border: 2px;
+				border-collapse: collapse;
+}
+
+th, td{
+				text-align: left;
+				padding: 8px;
+}
+
+th{
+				font-weight: bolder;
+				font-size: xx-large;
+}
+
+td{
+				font-weight: bold;
+}
+
+tr:nth-child(even){
+				background: cornsilk;
+}
+
+.meal_type{
+				font-size: x-large;
+}
+
+.contact{
+				width: 70%;
+				height: 280px;
+				background: url("./images/storage/emulated/0/Download/images%20(15).jpeg");
+				margin: 1rem 10rem;
+				padding: 1rem;
+				text-align: center;
+}
+
+.text{
+				margin: 0.5rem;
+}
+
+h2{
+				text-align: center;
+				width: 100%;				
+}
+
+.menu_images{
+				text-align: center;
+}
+
+footer{
+				clear: both;
+				text-align: center;
+				text-transforn: capitalize;
+				background: sandybrown;
+				color: cornsilk;
+}
+
